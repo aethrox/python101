@@ -1,2 +1,1 @@
-# python101
-Python 101
+# Pyhon 101
