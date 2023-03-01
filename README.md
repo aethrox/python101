@@ -18,7 +18,6 @@
 | 7 | String Functions | Advanced string formatting and processing. |
 
 ## Week Two - Intermediate Level (2-4 Hours / Day)
----
 
 | Day | Concept | Summary |
 | ------ | ------ | ------ |
@@ -34,7 +33,6 @@
 | Opt. | Regular Expressions | Filter and change texts using regular expressions. |
 
 ## Week Three - Advanced Level (2-5 Hours / Day)
----
 
 | Day | Concept | Summary |
 | ------ | ------ | ------ |
@@ -51,7 +49,6 @@
 | 7 | Design Patterns | Learn about different design patterns (Factory, Proxy...) |
 
 ## Week Four - Project Week (2-4 Hours / Day)
----
 
 In this final week, your goal is to complete one Python project every single day. I recommend you to choose projects of a realistic size, so that you don't spend more than 2-4 hours every day on implementing it (unless you purposely want to).
 
