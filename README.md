@@ -2,7 +2,7 @@
 
 ## Week One - Beginner Level (1-3 Hours / Day)  
 
-| Day | Concept | Summary | Complate |
+| Day | Concept | Summary | Completion |
 | ------ | ------ | ------ | ------ |
 | 1 | Hello World | Learn how to output basic texts. | ✔ |
 | 1 | Data Types | Learn about variables and about the different data types. | ✔ |
