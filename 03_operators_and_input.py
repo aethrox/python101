@@ -46,3 +46,41 @@ number %= 2
 number **= 2
 number //= 2
 """
+
+"""
+Comparison Operators
+
+== Equal
+!= Not equal
+> Greater than
+< Less than
+>= Greater than or equal to
+<= Less than or equal to
+"""
+
+x = 10
+y = 5 
+
+print(x == y)
+print(x != y)
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+
+"""
+Logical Operators
+
+and   Returns True if both statements are true
+or    Returns True if one of the statements is true
+not   Reverse the result, returns False if the result is true
+"""
+
+print(x == y and x != y)
+print(x == y or x != y)
+print(not(x == y and x != y))
+
+# User Input
+
+x = input("Enter number: ")
+print(x)
