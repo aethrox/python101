@@ -1,6 +1,8 @@
 # Operator and User Input
 
 """
+Arithmetic Operators
+
 + Addition
 - Subtraction
 * Multiplication
@@ -20,3 +22,27 @@ print("Division", x / y)
 print("Mod", x % y)
 print("Exponentiation", x ** y)
 print("Floor division", x // y)
+
+"""
+Assignment Operators
+
+= Assign value of right side of expression to left side operand
++= Add and Assign: Add right side operand with left side operand and then assign to left operand
+-= Subtract AND: Subtract right operand from left operand and then assign to left operand: True if both operands are equal
+*= Multiply AND: Multiply right operand with left operand and then assign to left operand
+/= Divide AND: Divide left operand with right operand and then assign to left operand
+%= Modulus AND: Takes modulus using left and right operands and assign result to left operand
+//= Divide(floor) AND: Divide left operand with right operand and then assign the value(floor) to left operand
+**= Exponent AND: Calculate exponent(raise power) value using operands and assign value to left operand
+"""
+
+"""
+number = 5
+number += 1
+number -= 1
+number *= 2
+number /= 2
+number %= 2
+number **= 2
+number //= 2
+"""
