@@ -1,7 +1,6 @@
 <h1 align=center>Python 101</h1>
 
 ## Week One - Beginner Level (1-3 Hours / Day)  
----
 
 | Day | Concept | Summary |
 | ------ | ------ | ------ |
