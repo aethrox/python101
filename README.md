@@ -2,11 +2,11 @@
 
 ## Week One - Beginner Level (1-3 Hours / Day)  
 
-| Day | Concept | Summary |
-| ------ | ------ | ------ |
-| 1 | Hello World | Learn how to output basic texts. |
-| 1 | Data Types | Learn about variables and about the different data types. |
-| 1 | Operators | Use operators to perform actions with / on data and objects. |
+| Day | Concept | Summary | Complate |
+| ------ | ------ | ------ | ------ |
+| 1 | Hello World | Learn how to output basic texts. | ✔ |
+| 1 | Data Types | Learn about variables and about the different data types. | ✔ |
+| 1 | Operators | Use operators to perform actions with / on data and objects. | ✔ |
 | 2 | User Input | Accept user input during runtime. |
 | 2 | Conditions | Learn about if, elif and else statements. |
 | 3 | Loops | Learn about while and for loops and how to use them. |
@@ -15,8 +15,6 @@
 | 5 | Exception Handling | Handle exceptions and errors during runtime. |
 | 6 | File Operators | Write into and read from files. |
 | 7 | String Functions | Advanced string formatting and processing. |
-
-- [ ] 
 
 ## Week Two - Intermediate Level (2-4 Hours / Day)
 
