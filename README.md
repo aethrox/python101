@@ -8,8 +8,8 @@
 | 1 | Data Types | Learn about variables and about the different data types. | ✔ |
 | 1 | Operators | Use operators to perform actions with / on data and objects. | ✔ |
 | 2 | User Input | Accept user input during runtime. | ✔ |
-| 2 | Conditions | Learn about if, elif and else statements. |
-| 3 | Loops | Learn about while and for loops and how to use them. |
+| 2 | Conditions | Learn about if, elif and else statements. | ✔ |
+| 3 | Loops | Learn about while and for loops and how to use them. | 
 | 3 | Collections | Learn about lists, tuples and dictionaries. |
 | 4 | Functions | Define your own functions with different parameters. |
 | 5 | Exception Handling | Handle exceptions and errors during runtime. |
