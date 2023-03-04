@@ -1,5 +1,7 @@
 # Secuences
 
+#Link: https://kulbiber.files.wordpress.com/2021/08/image-1.png
+
 # mylist = [10, 20, 30, "Text", True, 9.10]
 
 # print(mylist[3]) # Index: 3 > "Text"
