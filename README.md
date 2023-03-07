@@ -13,7 +13,7 @@
 | 3 | Collections | Learn about lists, tuples and dictionaries. | ✔ |
 | 4 | Functions | Define your own functions with different parameters. | ✔ |
 | 5 | Exception Handling | Handle exceptions and errors during runtime. | ✔ |
-| 6 | File Operators | Write into and read from files. |
+| 6 | File Operators | Write into and read from files. | ✔ |
 | 7 | String Functions | Advanced string formatting and processing. |
 
 ## Week Two - Intermediate Level (2-4 Hours / Day)
