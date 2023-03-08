@@ -6,6 +6,7 @@
 # print(text[2]) # Get the character in index 2 of the string.
 
 """
+\n newline
 \t tab
 \b backspace
 \s space
