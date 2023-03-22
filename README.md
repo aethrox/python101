@@ -20,8 +20,8 @@
 
 | Day | Concept | Summary |
 | ------ | ------ | ------ |
-| 1 | Classes and Objects (OOP) | Learn the basics of object-oriented programming. |
-| 2 | Inheritance | Learn about parent and child classes. |
+| 1 | Classes and Objects (OOP) | Learn the basics of object-oriented programming. | ✔ |
+| 2 | Inheritance | Learn about parent and child classes. | ✔ |
 | 3 | Recursion | Write recursive functions instead of iterative functions. |
 | 3 | Multithreading | Run multiple threads in the same Python script. |
 | 4 | Queues | Use the queue data structure to control the access to a ressource. |
