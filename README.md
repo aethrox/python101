@@ -18,8 +18,8 @@
 
 ## Week Two - Intermediate Level (2-4 Hours / Day)
 
-| Day | Concept | Summary |
-| ------ | ------ | ------ |
+| Day | Concept | Summary | Completion |
+| ------ | ------ | ------ | ------ |
 | 1 | Classes and Objects (OOP) | Learn the basics of object-oriented programming. | ✔ |
 | 2 | Inheritance | Learn about parent and child classes. | ✔ |
 | 3 | Recursion | Write recursive functions instead of iterative functions. |
